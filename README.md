@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey🖖🏽 I am Emine
 
-<!--
-**eminesa/eminesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏻‍💻 Currently working on my own app
 
-Here are some ideas to get you started:
+👀 Proficiency: Native Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ℹ️ Experience: Computer Engineering graduate. 3+ years of Android development experience. Actively engaged with Android since 2017.
+
+🌱 Research: Clean Architecture, Jetpack Compose, Testing
+
+🎾 Love to play tennis 
+
+📫 Find me:
+
+[![Email](https://img.shields.io/badge/Email-Contact-success)](mailto:eminesa34@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/eminesa) [![Medium](https://img.shields.io/badge/Medium-Blog-black)](https://medium.com/@eminesa)
