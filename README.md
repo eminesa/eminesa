@@ -2,12 +2,12 @@
 
 ## 👩🏻‍💻 Currently working on my own app
 
-Download the app on the play store: 
+Download the app on the Play Store: 
 
 [![Google Play Store](https://img.shields.io/badge/Google%20Play-Download-brightgreen)](https://play.google.com/store/apps/details?id=com.eminesa.chatbotassistant)
 
 
-👀 Proficiency: Native Android
+👀 Proficiency: Native Android - Kotlin 
 
 ℹ️ Experience: Computer Engineering graduate. 3+ years of Android development experience. Actively engaged with Android since 2017.
 
