@@ -1,6 +1,6 @@
 # Hey🖖🏽 I am Emine
 
-## 👩🏻‍💻 Currently working on my own app
+## 👩🏻‍💻 Currently working on personal project
 
 Download the app on the Play Store: 
 
