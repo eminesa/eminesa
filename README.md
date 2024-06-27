@@ -1,6 +1,6 @@
 # Hey🖖🏽 I am Emine
 
-## 👩🏻‍💻 Currently working on personal project
+## 👩🏻‍💻 Working on the personal project
 
 Download the app on the Play Store: 
 
@@ -17,4 +17,4 @@ Download the app on the Play Store:
 
 📫 Find me:
 
-[![Email](https://img.shields.io/badge/Email-Contact-success)](mailto:eminesa34@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/eminesa) [![Medium](https://img.shields.io/badge/Medium-Blog-black)](https://medium.com/@eminesa)
+[![Email](https://img.shields.io/badge/Email-Contact-success)](mailto:eminesa34@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/eminesa) [![Medium](https://img.shields.io/badge/Medium-Blog-black)](https://medium.com/@eminesaa)
