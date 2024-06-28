@@ -17,19 +17,25 @@ Download the app on the Play Store:
 
 📫 Find me:
 
-[![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:eminesa34@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eminesa)
-[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eminesaa)
-
+ <div id="icons" align="start">
+<a href="mailto:eminesa34@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Email" alt="Email" width="50" height="50"/>
+</a>
+<a href="https://www.linkedin.com/in/eminesa">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
+</a>
+<a href="https://medium.com/@eminesaa">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium" alt="Medium" width="50" height="50"/>
+</a>
+  </div>
 
 Languages & Tools
   <div id="icons" align="start">
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="android" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="kotlin" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="kotlin" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="androidStudio" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Google Firebase" alt="firebase" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="github" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="java" width="50" height="50"/>&nbsp;
-
 </div>
