@@ -1,9 +1,6 @@
 # Hey🖖🏽 I am Emine 
 
-Download the app on the Play Store: 
-
-[![Google Play Store](https://img.shields.io/badge/Google%20Play-Download-brightgreen)](https://play.google.com/store/apps/details?id=com.eminesa.chatbotassistant)
-
+Download the app on the Play Store: &nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.eminesa.chatbotassistant"><img src="https://github.com/eminesa/eminesa/assets/27770096/6f21f6f6-cd73-4b16-9b22-e38511320c97"  title="ChatBot Assistant" alt="Play Store" width="40" height="40" /></a> 
 
 👀 Proficiency: Native Android - Kotlin 
 
@@ -16,15 +13,9 @@ Download the app on the Play Store:
 
 📫 Find me
 <div id="contact-icons" align="start">
-  <a href="mailto:eminesa34@gmail.com" style="text-decoration: none; border: none; outline: none; display: inline-block; margin: 0 10px; padding: 0;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Email" width="50" height="50" style="vertical-align:middle; border: none; outline: none;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/eminesa" style="text-decoration: none; border: none; outline: none; display: inline-block; margin: 0 10px; padding: 0;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50" style="vertical-align:middle; border: none; outline: none;"/>
-  </a>
-  <a href="https://medium.com/@eminesaa" style="text-decoration: none; border: none; outline: none; display: inline-block; margin: 0 10px; padding: 0;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1024px-Medium_logo_Monogram.svg.png" alt="Medium" width="50" height="50" style="vertical-align:middle; border: none; outline: none;"/>
-  </a>
+  &nbsp;&nbsp;<a href="mailto:eminesa34@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"  title="mail" alt="Email" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/eminesa"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;   
+  <a href="https://medium.com/@eminesaa"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" title="Medium" alt="Medium" width="40" height="40"/></a>&nbsp;&nbsp;
 </div>
 
   
