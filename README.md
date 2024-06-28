@@ -1,7 +1,5 @@
 # Hey🖖🏽 I am Emine 
 
-<img src="https://media.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif" width="100"/>
-
 Download the app on the Play Store: 
 
 [![Google Play Store](https://img.shields.io/badge/Google%20Play-Download-brightgreen)](https://play.google.com/store/apps/details?id=com.eminesa.chatbotassistant)
@@ -15,17 +13,18 @@ Download the app on the Play Store:
 
 🎾 Love to play tennis 
 
-📫 Find me:
 
+📫 Find me:
 <a href="mailto:eminesa34@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" width="50" height="50" style="vertical-align:middle;"/>
 </a>
 <a href="https://www.linkedin.com/in/eminesa">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="50" height="50" style="vertical-align:middle;"/>
 </a>
 <a href="https://medium.com/@eminesaa">
-  <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/medium.svg" alt="Medium" width="50" height="50" style="vertical-align:middle;"/>
 </a>
+
   
 
 Languages & Tools
