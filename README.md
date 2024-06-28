@@ -19,13 +19,13 @@ Download the app on the Play Store:
 
  <div id="icons" align="start">
 <a href="mailto:eminesa34@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Email" alt="Email" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="50" height="50"/>
 </a>
 <a href="https://www.linkedin.com/in/eminesa">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="50" height="50"/>
 </a>
 <a href="https://medium.com/@eminesaa">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium" alt="Medium" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="50" height="50"/>
 </a>
   </div>
 
