@@ -1,7 +1,5 @@
 # Hey🖖🏽 I am Emine 
 
-Download the app on the Play Store: &nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.eminesa.chatbotassistant"><img src="https://github.com/eminesa/eminesa/assets/27770096/6f21f6f6-cd73-4b16-9b22-e38511320c97"  title="ChatBot Assistant" alt="Play Store" width="40" height="40" /></a> 
-
 👀 Proficiency: Native Android - Kotlin 
 
 ℹ️ Experience: Computer Engineering graduate. 3+ years of Android development experience. Actively engaged with Android since 2017.
@@ -9,6 +7,10 @@ Download the app on the Play Store: &nbsp;&nbsp;<a href="https://play.google.com
 🌱 Research: Clean Architecture, Jetpack Compose, Testing
 
 🎾 Love to play tennis 
+
+Download the app on the Play Store: 
+
+&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.eminesa.chatbotassistant"><img src="https://github.com/eminesa/eminesa/assets/27770096/6f21f6f6-cd73-4b16-9b22-e38511320c97"  title="ChatBot Assistant" alt="Play Store" width="40" height="40" /></a> 
 
 
 📫 Find me
