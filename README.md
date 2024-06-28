@@ -1,6 +1,6 @@
-# Hey🖖🏽 I am Emine
+# Hey🖖🏽 I am Emine 
 
- <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif" width="100"/>
 
 Download the app on the Play Store: 
 
@@ -17,7 +17,6 @@ Download the app on the Play Store:
 
 📫 Find me:
 
- <div id="icons" align="start">
 <a href="mailto:eminesa34@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="50" height="50"/>
 </a>
@@ -27,7 +26,7 @@ Download the app on the Play Store:
 <a href="https://medium.com/@eminesaa">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="50" height="50"/>
 </a>
-  </div>
+  
 
 Languages & Tools
   <div id="icons" align="start">
