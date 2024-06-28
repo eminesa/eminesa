@@ -16,14 +16,14 @@ Download the app on the Play Store:
 
 📫 Find me
 <div id="contact-icons" align="start">
-  <a href="mailto:eminesa34@gmail.com" style="text-decoration: none; border: none; outline: none; display: inline-block; margin: 0 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Email" width="50" height="50" style="vertical-align:middle;"/>
+  <a href="mailto:eminesa34@gmail.com" style="text-decoration: none; border: none; outline: none; display: inline-block; margin: 0 10px; padding: 0;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Email" width="50" height="50" style="vertical-align:middle; border: none; outline: none;"/>
   </a>
-  <a href="https://www.linkedin.com/in/eminesa" style="text-decoration: none; border: none; outline: none; display: inline-block; margin: 0 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50" style="vertical-align:middle;"/>
+  <a href="https://www.linkedin.com/in/eminesa" style="text-decoration: none; border: none; outline: none; display: inline-block; margin: 0 10px; padding: 0;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50" style="vertical-align:middle; border: none; outline: none;"/>
   </a>
-  <a href="https://medium.com/@eminesaa" style="text-decoration: none; border: none; outline: none; display: inline-block; margin: 0 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1024px-Medium_logo_Monogram.svg.png" alt="Medium" width="50" height="50" style="vertical-align:middle;"/>
+  <a href="https://medium.com/@eminesaa" style="text-decoration: none; border: none; outline: none; display: inline-block; margin: 0 10px; padding: 0;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1024px-Medium_logo_Monogram.svg.png" alt="Medium" width="50" height="50" style="vertical-align:middle; border: none; outline: none;"/>
   </a>
 </div>
 
