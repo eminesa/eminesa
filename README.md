@@ -14,16 +14,19 @@ Download the app on the Play Store:
 🎾 Love to play tennis 
 
 
-📫 Find me:
-<a href="mailto:eminesa34@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" width="50" height="50" style="vertical-align:middle;"/>
-</a>
-<a href="https://www.linkedin.com/in/eminesa">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="50" height="50" style="vertical-align:middle;"/>
-</a>
-<a href="https://medium.com/@eminesaa">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/medium.svg" alt="Medium" width="50" height="50" style="vertical-align:middle;"/>
-</a>
+📫 Find me
+<div id="contact-icons" align="start">
+  <a href="mailto:eminesa34@gmail.com" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Email" width="50" height="50" style="vertical-align:middle;"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/eminesa" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50" style="vertical-align:middle;"/>
+  </a>&nbsp;
+  <a href="https://medium.com/@eminesaa" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1024px-Medium_logo_Monogram.svg.png" alt="Medium" width="50" height="50" style="vertical-align:middle;"/>
+  </a>
+</div>
+
 
   
 
