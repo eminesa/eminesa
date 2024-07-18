@@ -1,6 +1,4 @@
-# Hey🖖🏽 I am Emine 
-
-👀 Proficiency: Native Android - Kotlin 
+![hellobanner](https://github.com/user-attachments/assets/0a19e49a-8d57-40d8-acb8-e4e3224897b2)
 
 ℹ️ Experience: Computer Engineering graduate. 3+ years of Android development experience. Actively engaged with Android since 2017.
 
