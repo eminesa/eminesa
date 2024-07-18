@@ -1,10 +1,10 @@
 ![Adsız tasarım](https://github.com/user-attachments/assets/21ed6abc-b827-459e-8d22-5e9394f73d8a)
 
-ℹ️ Experience: Computer Engineering graduate. 3+ years of Android development experience. Actively engaged with Android since 2017.
+Experience: Computer Engineering graduate. 3+ years of Android development experience. Actively engaged with Android since 2017.
 
-🌱 Research: Clean Architecture, Jetpack Compose, Testing
+Research: Clean Architecture, Jetpack Compose, Testing
 
-🎾 Love to play tennis 
+Love to play tennis 
 
 Download the app on the Play Store: 
 
@@ -17,7 +17,6 @@ Download the app on the Play Store:
   <a href="https://www.linkedin.com/in/eminesa"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;   
   <a href="https://medium.com/@eminesaa"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" title="Medium" alt="Medium" width="40" height="40"/></a>&nbsp;&nbsp;
 </div>
-
   
 Languages & Tools
   <div id="icons" align="start">
