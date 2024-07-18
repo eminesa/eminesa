@@ -29,3 +29,6 @@ Languages & Tools
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="github" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="java" width="50" height="50"/>&nbsp;
 </div>
+
+# Emine ŞA's GitHub Stats
+![Emine ŞA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eminesa&show_icons=true&theme=default)
