@@ -1,6 +1,4 @@
 ![Adsız tasarım](https://github.com/user-attachments/assets/21ed6abc-b827-459e-8d22-5e9394f73d8a)
-
-Research: Clean Architecture, Jetpack Compose, Testing
   
 # Languages & Tools
   <div id="icons" align="start">
