@@ -1,10 +1,6 @@
 ![Adsız tasarım](https://github.com/user-attachments/assets/21ed6abc-b827-459e-8d22-5e9394f73d8a)
 
-Experience: Computer Engineering graduate. 3+ years of Android development experience. Actively engaged with Android since 2017.
-
 Research: Clean Architecture, Jetpack Compose, Testing
-
-Hobbies: Love to play tennis 🎾
   
 # Languages & Tools
   <div id="icons" align="start">
